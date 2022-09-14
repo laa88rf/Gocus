@@ -1,2 +1,2 @@
-# Wocus
-Focus on window
+# Gocus
+Focus on Gnome window
