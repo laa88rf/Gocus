@@ -1,0 +1,2 @@
+# Wocus
+Focus on window
